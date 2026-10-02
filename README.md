@@ -106,4 +106,17 @@ The program starts with sample data so you can test it right away:
 
 - 👥 **9 members** (ages from 14 to 66)
 - 🏋️ **6 sessions**: Yoga, Pilates, MMA, Zumba (group) and Personal Cardio, Personal Boxing (personal)
--
+- 🧑‍🏫 **4 coaches**: remma chelfini, kamel elawaber, bouchra smaai, karim elbalouchi
+- 🧘 The Yoga class starts full (8/8) and the last member is on the waiting list, which is a good way to test the cancel feature.
+
+## 🔮 Possible Improvements
+
+- 💾 Save data to a file or database (currently lost when the program exits)
+- 🖥️ Add a graphical interface or a web version
+- 🌙 Support more periods (evening) and session dates
+- ✅ Add unit tests
+
+## 👨‍💻 Author
+
+Project developed by a computer science student.
+Feel free to open an issue or suggest improvements. ⭐ A star is always appreciated!
